@@ -1,36 +1,20 @@
 #EXTM3U
 #EXTINF:-1,ARG - TV PUBLICA HD
 http://tv.nousiptv.com:8080/Lucy/123456/8183
-#EXTINF:-1,ARG - TV PUBLICA SD
-http://tv.nousiptv.com:8080/Lucy/123456/3417
 #EXTINF:-1,ARG - EL TRECE HD
 http://tv.nousiptv.com:8080/Lucy/123456/51070
-#EXTINF:-1,ARG - EL TRECE SD
-http://tv.nousiptv.com:8080/Lucy/123456/7431
 #EXTINF:-1,ARG - TELEFE HD
 http://tv.nousiptv.com:8080/Lucy/123456/51071
-#EXTINF:-1,ARG - TELEFE SD
-http://tv.nousiptv.com:8080/Lucy/123456/3439
 #EXTINF:-1,ARG - AMERICA TV HD
 http://tv.nousiptv.com:8080/Lucy/123456/27
-#EXTINF:-1,ARG - AMERICA TV SD
-http://tv.nousiptv.com:8080/Lucy/123456/2040
 #EXTINF:-1,ARG - EL NUEVE HD
 http://tv.nousiptv.com:8080/Lucy/123456/51072
-#EXTINF:-1,ARG - EL NUEVE SD
-http://tv.nousiptv.com:8080/Lucy/123456/3438
 #EXTINF:-1,ARG - NET TV HD
 http://tv.nousiptv.com:8080/Lucy/123456/3356
-#EXTINF:-1,ARG - NET TV SD
-http://tv.nousiptv.com:8080/Lucy/123456/23229
 #EXTINF:-1,ARG - A24 HD
 http://tv.nousiptv.com:8080/Lucy/123456/51073
-#EXTINF:-1,ARG - A24 SD
-http://tv.nousiptv.com:8080/Lucy/123456/3359
 #EXTINF:-1,ARG - C5N HD
 http://tv.nousiptv.com:8080/Lucy/123456/3441
-#EXTINF:-1,ARG - C5N SD
-http://tv.nousiptv.com:8080/Lucy/123456/17901
 #EXTINF:-1,ARG - CANAL 26
 http://tv.nousiptv.com:8080/Lucy/123456/3442
 #EXTINF:-1,ARG - CRONICA
@@ -53,34 +37,20 @@ http://tv.nousiptv.com:8080/Lucy/123456/7978
 http://tv.nousiptv.com:8080/Lucy/123456/29354
 #EXTINF:-1,URU - TELE12 FHD
 http://tv.nousiptv.com:8080/Lucy/123456/3620
-#EXTINF:-1,URU - TELE12 HD
-http://tv.nousiptv.com:8080/Lucy/123456/18731
-#EXTINF:-1,URU - TELE12 SD
-http://tv.nousiptv.com:8080/Lucy/123456/18578
 #EXTINF:-1,URU - CANAL 4 HD
 http://tv.nousiptv.com:8080/Lucy/123456/8334
-#EXTINF:-1,URU - CANAL 4 SD
-http://tv.nousiptv.com:8080/Lucy/123456/18261
 #EXTINF:-1,URU - CANAL 10 HD
 http://tv.nousiptv.com:8080/Lucy/123456/18567
-#EXTINF:-1,URU - CANAL 10 SD
-http://tv.nousiptv.com:8080/Lucy/123456/3344
 #EXTINF:-1,URU - CANAL 5 (TNU)
 http://tv.nousiptv.com:8080/Lucy/123456/19351
 #EXTINF:-1,URU - LA RED
 http://tv.nousiptv.com:8080/Lucy/123456/35428
-#EXTINF:-1,URU - TV CIUDAD SD
-http://tv.nousiptv.com:8080/Lucy/123456/16136
 #EXTINF:-1,URU - TV CIUDAD HD
 http://tv.nousiptv.com:8080/Lucy/123456/19352
 #EXTINF:-1,URU - DEL SOL TV
 http://tv.nousiptv.com:8080/Lucy/123456/34605
 #EXTINF:-1,URU - VTV FHD
 http://tv.nousiptv.com:8080/Lucy/123456/3802
-#EXTINF:-1,URU - VTV HD
-http://tv.nousiptv.com:8080/Lucy/123456/22204
-#EXTINF:-1,URU - VTV SD
-http://tv.nousiptv.com:8080/Lucy/123456/3598
 #EXTINF:-1,URU - VTV Plus HD
 http://tv.nousiptv.com:8080/Lucy/123456/19354
 #EXTINF:-1,URU - VTV Plus SD
@@ -116,8 +86,6 @@ http://tv.nousiptv.com:8080/Lucy/123456/3250
 http://tv.nousiptv.com:8080/Lucy/123456/4142
 #EXTINF:-1,CINE - CINEMAX
 http://tv.nousiptv.com:8080/Lucy/123456/3084
-#EXTINF:-1,CINE - CLARO CINEMA
-http://tv.nousiptv.com:8080/Lucy/123456/4145
 #EXTINF:-1,CINE - DE PELICULA
 http://tv.nousiptv.com:8080/Lucy/123456/2997
 #EXTINF:-1,CINE - DE PELICULA PLUS
@@ -288,16 +256,16 @@ http://tv.nousiptv.com:8080/Lucy/123456/3071
 #EXTINF:-1,INF - TOONCAST
 http://tv.nousiptv.com:8080/Lucy/123456/3242
 
-#EXTINF:-1,24/7 - DRAGON BALL SUPER
-http://tv.nousiptv.com:8080/Lucy/123456/29406
-#EXTINF:-1,24/7 - FUTURAMA
-http://tv.nousiptv.com:8080/Lucy/123456/29407
-#EXTINF:-1,24/7 - LOONEY TUNES
-http://tv.nousiptv.com:8080/Lucy/123456/29409
-#EXTINF:-1,24/7 - LOS SIMPSON HD
-http://tv.nousiptv.com:8080/Lucy/123456/29412
-#EXTINF:-1,24/7 - MUCHO FLOW
-http://tv.nousiptv.com:8080/Lucy/123456/29410
+#EXTINF:-1,ARG - FOX SPORTS PREMIUM HD
+http://tv.nousiptv.com:8080/Lucy/123456/8330
+#EXTINF:-1,ARG - TNT SPORTS HD
+http://tv.nousiptv.com:8080/Lucy/123456/2957
+#EXTINF:-1,ARG - TYC SPORTS HD
+http://tv.nousiptv.com:8080/Lucy/123456/43633
+#EXTINF:-1,ARG - AMERICA SPORTS
+http://tv.nousiptv.com:8080/Lucy/123456/49525
+#EXTINF:-1,ARG - DEPORTV
+http://tv.nousiptv.com:8080/Lucy/123456/29348
 
 #EXTINF:-1,FHD - A&E HD
 http://tv.nousiptv.com:8080/Lucy/123456/4037
@@ -305,16 +273,8 @@ http://tv.nousiptv.com:8080/Lucy/123456/4037
 http://tv.nousiptv.com:8080/Lucy/123456/4085
 #EXTINF:-1,FHD - ANIMAL PLANET
 http://tv.nousiptv.com:8080/Lucy/123456/4067
-#EXTINF:-1,FHD - ANTENA 3 INT.
-http://tv.nousiptv.com:8080/Lucy/123456/3139
 #EXTINF:-1,FHD - AXN HD
 http://tv.nousiptv.com:8080/Lucy/123456/4038
-#EXTINF:-1,FHD - BABY FIRST
-http://tv.nousiptv.com:8080/Lucy/123456/4088
-#EXTINF:-1,FHD - BABY TV HQ
-http://tv.nousiptv.com:8080/Lucy/123456/4116
-#EXTINF:-1,FHD - BLOOMBERG
-http://tv.nousiptv.com:8080/Lucy/123456/4089
 #EXTINF:-1,FHD - BOOMERANG
 http://tv.nousiptv.com:8080/Lucy/123456/4061
 #EXTINF:-1,FHD - CARTOON NETWORK
@@ -440,79 +400,14 @@ http://tv.nousiptv.com:8080/Lucy/123456/4053
 #EXTINF:-1,FHD - WOBI TV
 http://tv.nousiptv.com:8080/Lucy/123456/4107
 
-#EXTINF:-1,LAT - UNIVISION HD
-http://tv.nousiptv.com:8080/Lucy/123456/3796
-#EXTINF:-1,LAT - UNIVISION NOTICIAS
-http://tv.nousiptv.com:8080/Lucy/123456/18568
-#EXTINF:-1,LAT - UNIVISION DENVER
-http://tv.nousiptv.com:8080/Lucy/123456/18565
-#EXTINF:-1,LAT - UNIVISION DALLAS
-http://tv.nousiptv.com:8080/Lucy/123456/18559
-#EXTINF:-1,LAT - UNIVISION NEW YORK
-http://tv.nousiptv.com:8080/Lucy/123456/2021
-#EXTINF:-1,LAT - UNIVISION MIAMI
-http://tv.nousiptv.com:8080/Lucy/123456/3177
-#EXTINF:-1,LAT - UNIVISION LOS ANGELES
-http://tv.nousiptv.com:8080/Lucy/123456/18564
-#EXTINF:-1,LAT - UNIVISION SAN FRANCISCO
-http://tv.nousiptv.com:8080/Lucy/123456/18560
-#EXTINF:-1,LAT - UNIVISION LAS VEGAS
-http://tv.nousiptv.com:8080/Lucy/123456/18563
-#EXTINF:-1,LAT - UNIVISION CHICAGO
-http://tv.nousiptv.com:8080/Lucy/123456/47679
-#EXTINF:-1,LAT - TELEMUNDO INTERNACIONAL
-http://tv.nousiptv.com:8080/Lucy/123456/43189
-#EXTINF:-1,LAT - TELEMUNDO PHILADELPHIA 
-http://tv.nousiptv.com:8080/Lucy/123456/43289
-#EXTINF:-1,LAT - TELEMUNDO BOSTON
-http://tv.nousiptv.com:8080/Lucy/123456/3794
-#EXTINF:-1,LAT - TELEMUNDO 39 DALLAS
-http://tv.nousiptv.com:8080/Lucy/123456/30216
-#EXTINF:-1,LAT - TELEMUNDO 44 CHICAGO
-http://tv.nousiptv.com:8080/Lucy/123456/30215
-#EXTINF:-1,LAT - TELEMUNDO 47 NEW YORK
-http://tv.nousiptv.com:8080/Lucy/123456/30213
-#EXTINF:-1,LAT - TELEMUNDO DENVER
-http://tv.nousiptv.com:8080/Lucy/123456/18570
-#EXTINF:-1,LAT - TELEMUNDO 48 SAN FRANCISCO
-http://tv.nousiptv.com:8080/Lucy/123456/18780
-#EXTINF:-1,LAT - TELEMUNDO 51 MIAMI
-http://tv.nousiptv.com:8080/Lucy/123456/18779
-#EXTINF:-1,LAT - TELEMUNDO 52 LOS ANGELES
-http://tv.nousiptv.com:8080/Lucy/123456/18778
-#EXTINF:-1,LAT - TELEMUNDO 60 SAN ANTONIO
-http://tv.nousiptv.com:8080/Lucy/123456/18777
-#EXTINF:-1,LAT - TELEMUNDO HOUSTON
-http://tv.nousiptv.com:8080/Lucy/123456/18776
-#EXTINF:-1,LAT - TELEMUNDO LAS VEGAS
-http://tv.nousiptv.com:8080/Lucy/123456/18775
-#EXTINF:-1,LAT - UNIMAS DENVER
-http://tv.nousiptv.com:8080/Lucy/123456/18572
-#EXTINF:-1,LAT - UNIMAS LOS ANGELES
-http://tv.nousiptv.com:8080/Lucy/123456/18774
-#EXTINF:-1,LAT - UNIMAS MIAMI
-http://tv.nousiptv.com:8080/Lucy/123456/18773
-#EXTINF:-1,LAT - UNIMAS NEW YORK
-http://tv.nousiptv.com:8080/Lucy/123456/18772
-#EXTINF:-1,LAT - UNIMAS DALLAS
-http://tv.nousiptv.com:8080/Lucy/123456/3795
-#EXTINF:-1,LAT - ByN  Ñ.
-http://tv.nousiptv.com:8080/Lucy/123456/3601
-#EXTINF:-1,LAT - CNN EN ESPAÑOL
-http://tv.nousiptv.com:8080/Lucy/123456/4014
-#EXTINF:-1,LAT - CNN USA
-http://tv.nousiptv.com:8080/Lucy/123456/33360
-#EXTINF:-1,LAT - NBC UNIVERSO
-http://tv.nousiptv.com:8080/Lucy/123456/3757
-#EXTINF:-1,LAT - ESTRELLA TV
-http://tv.nousiptv.com:8080/Lucy/123456/41188
-#EXTINF:-1,LAT - FIGHTING SPORTS NETWORK
-http://tv.nousiptv.com:8080/Lucy/123456/2962
-#EXTINF:-1,LAT - GALAVISION HD
-http://tv.nousiptv.com:8080/Lucy/123456/3793
-#EXTINF:-1,LAT - CBS BOSTON
-http://tv.nousiptv.com:8080/Lucy/123456/45550
-#EXTINF:-1,LAT - NBC  BOSTON
-http://tv.nousiptv.com:8080/Lucy/123456/45551
-#EXTINF:-1,LAT - FOX BOSTON
-http://tv.nousiptv.com:8080/Lucy/123456/45552
+#EXTINF:-1,24/7 - DRAGON BALL SUPER
+http://tv.nousiptv.com:8080/Lucy/123456/29406
+#EXTINF:-1,24/7 - FUTURAMA
+http://tv.nousiptv.com:8080/Lucy/123456/29407
+#EXTINF:-1,24/7 - LOONEY TUNES
+http://tv.nousiptv.com:8080/Lucy/123456/29409
+#EXTINF:-1,24/7 - LOS SIMPSON HD
+http://tv.nousiptv.com:8080/Lucy/123456/29412
+
+
+
