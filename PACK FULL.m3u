@@ -88,42 +88,27 @@ http://tecnotv.club/wanda/principal.php?c=100&f=.m3u8|User-Agent=ExoPlayerDemo/1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dW4yXbn/Nat-Geo-Wild.jpg" group-title="CULTURA",Nat Geo Wild
 http://tecnotv.club/wanda/principal.php?c=122&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cw167v4/EL-GURMET.jpg" group-title="CULTURA",El Gourmet
-http://tecnotv.club/wanda/principal.php?c=49&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo=".jpg" group-title="ENTRETENIMIENTO",Justicia TV
-http://tecnotv.club/wanda/principal.php?c=22&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://1.bp.blogspot.com/-C6WuJK_dxjE/XpStg2cfqWI/AAAAAAAAKdo/1AqaM0t5bIsBwr2SEdqYhord52eg658EgCLcBGAsYHQ/s1600/BABY%2BTV.png" group-title="INFANTILES",BABY TV
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/119
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://1.bp.blogspot.com/-z7FWKlXm8iM/XpSj0L7RUUI/AAAAAAAAKdE/YliUSZkaL6MxT5iqeGxPCUQNPQVKOXH0gCLcBGAsYHQ/s1600/CARTOON%2BNETWORK.png" group-title="INFANTILES",CARTOON NETWORK
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/120
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://1.bp.blogspot.com/-Y39cKgsP5eY/XpSubsCnI7I/AAAAAAAAKdw/DlsRuvmW2kADu47FikssJvb-FBIP0WhewCLcBGAsYHQ/s1600/BOOMERANG.png" group-title="INFANTILES",BOOMERANG
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/121
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://1.bp.blogspot.com/-WuAU0LpTBr8/XpZWZnOGXUI/AAAAAAAAKjg/GmMJfVF7ktUw_QizZcKV6VLL8MgTfI7HwCLcBGAsYHQ/s1600/NICK.png" group-title="INFANTILES",NICK
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/122
-#EXTINF:-1 tvg-id="" tvg-name="NICK 2" tvg-logo="https://1.bp.blogspot.com/-nY9xTrxdgs4/XpZVUsKDBxI/AAAAAAAAKjM/o8zzhpRff3MNsgyfdZDbFGXL7PMUaFYDgCLcBGAsYHQ/s1600/NICK%2B2.png" group-title="INFANTILES",NICK 2
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/123
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https:/
-#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://1.bp.blogspot.com/-53oIcX2Sef0/X3YPxtPA0SI/AAAAAAAALKM/5FmRvoWY0vIQ3MMjBOQ4_albITFILZKEwCLcBGAsYHQ/s0/E%2521%2B%252820%2529.png" group-title="INFANTILES",NICKTOONS
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/125
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://1.bp.blogspot.com/-_vM2-eMUWiI/X3YQJIw6ejI/AAAAAAAALKU/nwEqwOFL7YQn7JitcokJ3M6kg-C2XQz_QCLcBGAsYHQ/s0/E%2521%2B%252821%2529.png" group-title="INFANTILES",DISNEY CHANNEL
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/126
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://1.bp.blogspot.com/-VkZfWhp7O4c/XpUYQywKdZI/AAAAAAAAKfo/4vf7z5eB1KgXKkEKFPBplk1uqZm8clM6QCLcBGAsYHQ/s1600/DISNEY%2BJR.png" group-title="INFANTILES",DISNEY JUNIOR
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/127
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://1.bp.blogspot.com/-xgbfwUw8O0s/XpUZAhXnK9I/AAAAAAAAKf0/X3FoU2unjpobVIJYtZEaRNtLuwbeb9QmQCLcBGAsYHQ/s1600/DISNEY%2BXD.png" group-title="INFANTILES",DISNEY XD
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/128
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://1.bp.blogspot.com/-tERAaISDL3A/XpS1T8PayDI/AAAAAAAAKe4/ye47KpWX1nA_-fleLd4-PyF6IjR33Vf8gCLcBGAsYHQ/s1600/DISCOVERY%2BKIDS.png" group-title="INFANTILES",DISCOVERY KIDS
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/129
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="https://1.bp.blogspot.com/-X30v8CALSVM/X3YQnhnt04I/AAAAAAAALKc/x1yDHli3CmQuy4d_EeXraIE0aj-xUB3bwCLcBGAsYHQ/s0/E%2521%2B%252822%2529.png" group-title="INFANTILES",NAT GEO KIDS
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/130
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://1.bp.blogspot.com/-6b_4-EuysJw/XpZeRTSW13I/AAAAAAAAKko/K05mtX6Hgpgn7n1bdbiYDfF0dHOFjBNDwCLcBGAsYHQ/s1600/TOONCATS.png" group-title="INFANTILES",TOONCAST
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/131
-#EXTINF:-1 tvg-id="" tvg-name="BOING HD" tvg-logo="https://1.bp.blogspot.com/-g4ZWoZI84_E/X3Y-uJQBe3I/AAAAAAAALLU/bc1vAp-2cewHWJuzAOsRQPZ107IiEaNTgCLcBGAsYHQ/s0/E%2521%2B%252827%2529.png" group-title="INFANTILES",BOING HD
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/132
-#EXTINF:-1 tvg-id="" tvg-name="PEQUERADIO TV" tvg-logo="https://1.bp.blogspot.com/-zK2-CWRJDb4/X3Y-uIXZAVI/AAAAAAAALLY/gIQAr9s55lIelB4zcop1qxLO31N5STUTACLcBGAsYHQ/s0/E%2521%2B%252826%2529.png" group-title="INFANTILES",PEQUERADIO TV
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/133
-#EXTINF:-1 tvg-id="" tvg-name="PANDA" tvg-logo="https://1.bp.blogspot.com/-0HJxDbRT6Vk/X3ZVCKBZFXI/AAAAAAAALL4/d8kCfiAg1cM1hsgbmDDBrx9SG7n8JOFhgCLcBGAsYHQ/s0/E%2521%2B%252830%2529.png" group-title="INFANTILES",PANDA
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/134
-#EXTINF:-1 tvg-id="" tvg-name="LOCOMOTION" tvg-logo="https://1.bp.blogspot.com/-9ZLeqB8mnWk/X4XGslTTaxI/AAAAAAAALTg/-iYr8JaBbsoSvYJMXB7S4yFKylzoSsdIQCLcBGAsYHQ/s0/E%2521%2B%252873%2529.png" group-title="INFANTILES",LOCOMOTION
-http://francotv.ml:25461/apoyaqueesgratis/3jMhVYGGn7/135
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Baby TV*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Baby TV*
+http://zufreelist.net:8080/aerfv/aerf/80
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: BIT ME TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: BIT ME TP MX
+http://zufreelist.net:8080/aerfv/aerf/89
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Boomerang*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Boomerang*
+http://zufreelist.net:8080/aerfv/aerf/81
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Discovery Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Discovery Kids SD*
+http://zufreelist.net:8080/aerfv/aerf/82
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney JR SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/aerfv/aerf/84
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/aerfv/aerf/83
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney XD SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/aerfv/aerf/85
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nat Geo Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nat Geo Kids SD*
+http://zufreelist.net:8080/aerfv/aerf/86
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nick Jr SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nick Jr SD*
+http://zufreelist.net:8080/aerfv/aerf/87
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nickelodeon SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nickelodeon SD*
+http://zufreelist.net:8080/aerfv/aerf/88
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: TOONCAST TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: TOONCAST TP MX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVXwWrx/Direc-TV-Sport.jpg" group-title="DEPORTES",Directv Sports
 http://tecnotv.club/wanda/principal.php?c=164&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3CvW4td/Direc-TV-Sports-2.jpg" group-title="DEPORTES",Directv sports-2
