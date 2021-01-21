@@ -100,14 +100,14 @@ http://tv.nousiptv.com:8080/Lucy/123456/4121
 http://tv.nousiptv.com:8080/Lucy/123456/3203
 #EXTINF:-1,CINE - FOX PREMIUM ACTION
 http://tv.nousiptv.com:8080/Lucy/123456/3263
+#EXTINF:-1,FHD - FOX PREMIUM FAMILY
+http://tv.nousiptv.com:8080/Lucy/123456/4084
 #EXTINF:-1,CINE - FOX PREMIUM CINEMA
 http://tv.nousiptv.com:8080/Lucy/123456/3264
 #EXTINF:-1,CINE - FOX PREMIUM CLASSICS
 http://tv.nousiptv.com:8080/Lucy/123456/3077
 #EXTINF:-1,CINE - FOX PREMIUM COMEDY
 http://tv.nousiptv.com:8080/Lucy/123456/3102
-#EXTINF:-1,CINE - FOX PREMIUM FAMILY
-http://tv.nousiptv.com:8080/Lucy/123456/4032
 #EXTINF:-1,CINE - FOX PREMIUM MOVIES
 http://tv.nousiptv.com:8080/Lucy/123456/3266
 #EXTINF:-1,CINE - FOX PREMIUM SERIES.
@@ -267,139 +267,6 @@ http://tv.nousiptv.com:8080/Lucy/123456/49525
 #EXTINF:-1,ARG - DEPORTV
 http://tv.nousiptv.com:8080/Lucy/123456/29348
 
-#EXTINF:-1,FHD - A&E HD
-http://tv.nousiptv.com:8080/Lucy/123456/4037
-#EXTINF:-1,FHD - AMC
-http://tv.nousiptv.com:8080/Lucy/123456/4085
-#EXTINF:-1,FHD - ANIMAL PLANET
-http://tv.nousiptv.com:8080/Lucy/123456/4067
-#EXTINF:-1,FHD - AXN HD
-http://tv.nousiptv.com:8080/Lucy/123456/4038
-#EXTINF:-1,FHD - BOOMERANG
-http://tv.nousiptv.com:8080/Lucy/123456/4061
-#EXTINF:-1,FHD - CARTOON NETWORK
-http://tv.nousiptv.com:8080/Lucy/123456/4063
-#EXTINF:-1,FHD - CINECANAL
-http://tv.nousiptv.com:8080/Lucy/123456/4068
-#EXTINF:-1,FHD - CINEMAX
-http://tv.nousiptv.com:8080/Lucy/123456/4110
-#EXTINF:-1,FHD - COMEDY CENTRAL
-http://tv.nousiptv.com:8080/Lucy/123456/4039
-#EXTINF:-1,FHD - DISCOVERY CHANNEL
-http://tv.nousiptv.com:8080/Lucy/123456/4069
-#EXTINF:-1,FHD - DISCOVERY HOME & HEALTH
-http://tv.nousiptv.com:8080/Lucy/123456/4070
-#EXTINF:-1,FHD - DISCOVERY ID
-http://tv.nousiptv.com:8080/Lucy/123456/3600
-#EXTINF:-1,FHD - DISCOVERY KIDS
-http://tv.nousiptv.com:8080/Lucy/123456/4072
-#EXTINF:-1,FHD - DISCOVERY THEATER
-http://tv.nousiptv.com:8080/Lucy/123456/4073
-#EXTINF:-1,FHD - DISCOVERY TURBO
-http://tv.nousiptv.com:8080/Lucy/123456/4075
-#EXTINF:-1,FHD - DISCOVERY WORLD
-http://tv.nousiptv.com:8080/Lucy/123456/4076
-#EXTINF:-1,FHD - DISNEY JR
-http://tv.nousiptv.com:8080/Lucy/123456/4111
-#EXTINF:-1,FHD - DISNEY XD
-http://tv.nousiptv.com:8080/Lucy/123456/4102
-#EXTINF:-1,FHD - DISTRITO COMEDIA
-http://tv.nousiptv.com:8080/Lucy/123456/4040
-#EXTINF:-1,FHD - E! ENTERTAINMENT
-http://tv.nousiptv.com:8080/Lucy/123456/4041
-#EXTINF:-1,FHD - EL GOURMET
-http://tv.nousiptv.com:8080/Lucy/123456/4042
-#EXTINF:-1,FHD - FOOD NETWORK
-http://tv.nousiptv.com:8080/Lucy/123456/4057
-#EXTINF:-1,FHD - FOX HD
-http://tv.nousiptv.com:8080/Lucy/123456/4022
-#EXTINF:-1,FHD - FOX LIFE HD
-http://tv.nousiptv.com:8080/Lucy/123456/4043
-#EXTINF:-1,FHD - FOX PREMIUM ACTION
-http://tv.nousiptv.com:8080/Lucy/123456/4019
-#EXTINF:-1,FHD - FOX PREMIUM CINEMA
-http://tv.nousiptv.com:8080/Lucy/123456/8238
-#EXTINF:-1,FHD - FOX PREMIUM CLASSICS
-http://tv.nousiptv.com:8080/Lucy/123456/8237
-#EXTINF:-1,FHD - FOX PREMIUM COMEDY
-http://tv.nousiptv.com:8080/Lucy/123456/8234
-#EXTINF:-1,FHD - FOX PREMIUM FAMILY
-http://tv.nousiptv.com:8080/Lucy/123456/4084
-#EXTINF:-1,FHD - FOX PREMIUM MOVIES
-http://tv.nousiptv.com:8080/Lucy/123456/4023
-#EXTINF:-1,FHD - FOX PREMIUM SERIES
-http://tv.nousiptv.com:8080/Lucy/123456/4020
-#EXTINF:-1,FHD - FX HD
-http://tv.nousiptv.com:8080/Lucy/123456/4044
-#EXTINF:-1,FHD - GLITZ
-http://tv.nousiptv.com:8080/Lucy/123456/4045
-#EXTINF:-1,FHD - GOLDEN PLUS
-http://tv.nousiptv.com:8080/Lucy/123456/8255
-#EXTINF:-1,FHD - GOLDEN PREMIERE
-http://tv.nousiptv.com:8080/Lucy/123456/4091
-#EXTINF:-1,FHD - HBO 2
-http://tv.nousiptv.com:8080/Lucy/123456/4095
-#EXTINF:-1,FHD - HBO FAMILY
-http://tv.nousiptv.com:8080/Lucy/123456/3211
-#EXTINF:-1,FHD - HBO HD
-http://tv.nousiptv.com:8080/Lucy/123456/4112
-#EXTINF:-1,FHD - HISTORY
-http://tv.nousiptv.com:8080/Lucy/123456/4093
-#EXTINF:-1,FHD - HBO PLUS
-http://tv.nousiptv.com:8080/Lucy/123456/4109
-#EXTINF:-1,FHD - HOLA TV
-http://tv.nousiptv.com:8080/Lucy/123456/4046
-#EXTINF:-1,FHD - I - SAT
-http://tv.nousiptv.com:8080/Lucy/123456/4098
-#EXTINF:-1,FHD - MAS CHIC
-http://tv.nousiptv.com:8080/Lucy/123456/4047
-#EXTINF:-1,FHD - HBO XTREME
-http://tv.nousiptv.com:8080/Lucy/123456/8226
-#EXTINF:-1,FHD - HBO POP
-http://tv.nousiptv.com:8080/Lucy/123456/8246
-#EXTINF:-1,FHD - MTV
-http://tv.nousiptv.com:8080/Lucy/123456/4083
-#EXTINF:-1,FHD - MTV LIVE
-http://tv.nousiptv.com:8080/Lucy/123456/4096
-#EXTINF:-1,FHD - NAT GEO
-http://tv.nousiptv.com:8080/Lucy/123456/4097
-#EXTINF:-1,FHD - NAT GEO KIDS
-http://tv.nousiptv.com:8080/Lucy/123456/4078
-#EXTINF:-1,FHD - NAT GEO WILD
-http://tv.nousiptv.com:8080/Lucy/123456/4079
-#EXTINF:-1,FHD - NICK 2
-http://tv.nousiptv.com:8080/Lucy/123456/4064
-#EXTINF:-1,FHD - NICK JR
-http://tv.nousiptv.com:8080/Lucy/123456/3187
-#EXTINF:-1,FHD - NICKELODEON
-http://tv.nousiptv.com:8080/Lucy/123456/4058
-#EXTINF:-1,FHD - PARAMOUNT
-http://tv.nousiptv.com:8080/Lucy/123456/4065
-#EXTINF:-1,FHD - SONY
-http://tv.nousiptv.com:8080/Lucy/123456/4048
-#EXTINF:-1,FHD - SPACE HD
-http://tv.nousiptv.com:8080/Lucy/123456/4099
-#EXTINF:-1,FHD - STUDIO UNIVERSAL
-http://tv.nousiptv.com:8080/Lucy/123456/4100
-#EXTINF:-1,FHD - SYFY
-http://tv.nousiptv.com:8080/Lucy/123456/4049
-#EXTINF:-1,FHD - TCM HD
-http://tv.nousiptv.com:8080/Lucy/123456/4106
-#EXTINF:-1,FHD - TLC
-http://tv.nousiptv.com:8080/Lucy/123456/4074
-#EXTINF:-1,FHD - TNT HD
-http://tv.nousiptv.com:8080/Lucy/123456/4103
-#EXTINF:-1,FHD - TNT SERIES
-http://tv.nousiptv.com:8080/Lucy/123456/4050
-#EXTINF:-1,FHD - TOONCAST
-http://tv.nousiptv.com:8080/Lucy/123456/4051
-#EXTINF:-1,FHD - UNIVERSAL CHANNEL
-http://tv.nousiptv.com:8080/Lucy/123456/4054
-#EXTINF:-1,FHD - WARNER
-http://tv.nousiptv.com:8080/Lucy/123456/4053
-#EXTINF:-1,FHD - WOBI TV
-http://tv.nousiptv.com:8080/Lucy/123456/4107
-
 #EXTINF:-1,24/7 - DRAGON BALL SUPER
 http://tv.nousiptv.com:8080/Lucy/123456/29406
 #EXTINF:-1,24/7 - FUTURAMA
@@ -408,6 +275,5 @@ http://tv.nousiptv.com:8080/Lucy/123456/29407
 http://tv.nousiptv.com:8080/Lucy/123456/29409
 #EXTINF:-1,24/7 - LOS SIMPSON HD
 http://tv.nousiptv.com:8080/Lucy/123456/29412
-
 
 
